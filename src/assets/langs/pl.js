@@ -3,7 +3,7 @@ tinymce.addI18n('pl',{
 "Fonts": "Czcionka",
 "Headings": "Nag\u0142\u00f3wki",
 "Special character...": "Znak specjalny...",
-"Find and replace...": "Znajd\u017ar i zamie\u0144...",
+"Find and replace...": "Znajd\u017a i zamie\u0144...",
 "Cut": "Wytnij",
 "Header 2": "Nag\u0142\u00f3wek 2",
 "Your browser doesn't support direct access to the clipboard. Please use the Ctrl+X\/C\/V keyboard shortcuts instead.": "Twoja przegl\u0105darka nie obs\u0142uguje bezpo\u015bredniego dost\u0119pu do schowka. U\u017cyj zamiast tego kombinacji klawiszy Ctrl+X\/C\/V.",
