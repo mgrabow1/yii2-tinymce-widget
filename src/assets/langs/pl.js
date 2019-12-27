@@ -6,7 +6,7 @@ tinymce.addI18n('pl',{
 "Find and replace...": "Znajd\u017a i zamie\u0144...",
 "Find whole words only": "Znajd\u017a tylko ca\u0142e s\u0142owa",
 "All": "Wszystkie",
-"Currency": "Waluta"
+"Currency": "Waluta",
 "Text": "Tekst",
 "Quotations": "Cytowanie",
 "Mathematical": "Matematyczne",
