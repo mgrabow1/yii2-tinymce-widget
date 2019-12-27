@@ -19,7 +19,7 @@ tinymce.addI18n('pl',{
 "Show caption": "Poka\u017c tytu\u0142",
 "Border style": "Styl obramowania",
 "Border color": "Kolor obramowania",
-"Select...": "Wybierz",
+"Select...": "Wybierz...",
 "Cut": "Wytnij",
 "Header 2": "Nag\u0142\u00f3wek 2",
 "Your browser doesn't support direct access to the clipboard. Please use the Ctrl+X\/C\/V keyboard shortcuts instead.": "Twoja przegl\u0105darka nie obs\u0142uguje bezpo\u015bredniego dost\u0119pu do schowka. U\u017cyj zamiast tego kombinacji klawiszy Ctrl+X\/C\/V.",
