@@ -1,5 +1,7 @@
 # TinyMCE Widget for Yii2
 
+This fork adds some string translations for polish language (various plugins that I needed).
+If you would like to use it and add some other polish translations - just mail me.
 
 [![Latest Version](https://img.shields.io/github/tag/2amigos/yii2-tinymce-widget.svg?style=flat-square&label=release)](https://github.com/2amigos/yii2-tinymce-widget/tags)
 [![Software License](https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat-square)](LICENSE.md)
